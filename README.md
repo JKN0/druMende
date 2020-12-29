@@ -17,5 +17,8 @@ Each channel level can be controlled with level control knobs. Also each channel
 
 Sequencer is 7 channel, 16 steps. Two 7 x 16 step patterns can be stored.
 
-More detailed description (only in Finnish) with pictures is here: https://wiki.helsinki.hacklab.fi/Drumende
+Demonstration video: https://youtu.be/f7uYuddqCkw
+
+A more detailed build log is here: https://retroandreverse.blogspot.com/2020/12/analog-drums-beginnings-drumshave.html
+
 
